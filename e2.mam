@@ -1,0 +1,10 @@
+[Shortcut Properties]
+AccessShortcutVersion = 1
+DatabasePath = C:\Projects\windows-file-extensions\accdb\e2.accdb
+DatabaseName = e2
+; Computer = xxx
+
+ObjectName = macro1
+ObjectType = module
+EnableRemote = 1
+; NetworkPath = network
